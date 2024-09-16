@@ -1,0 +1,34 @@
+.body {
+  color: white;
+}
+.logo {
+  font-size: 22px;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.navContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.Container {
+  display: flex;
+}
+.header {
+  text-align: center;
+  border-radius: 5px;
+  border color: white-space: ;
+
+}
+.link{
+  cursor: pointer;
+}
